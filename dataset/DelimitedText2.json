@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "copied.csv",
 				"fileSystem": "wars"
 			},
 			"columnDelimiter": ",",
