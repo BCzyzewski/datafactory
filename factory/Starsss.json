@@ -1,0 +1,9 @@
+{
+	"name": "Starsss",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2a501cd-8c95-431e-b0f9-a85e92bce974",
+		"tenantId": "3617ef9b-98b4-40d9-ba43-e1ed6709cf0d"
+	}
+}
